@@ -30,6 +30,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydraphyzer&show_icons=true&locale=en&layout=compact" alt="hydraphyzer" margin-bottom="10" margin-top="10"/></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hydraphyzer&show_icons=true&locale=en" alt="hydraphyzer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydraphyzer&" alt="hydraphyzer" /></p>
+
+[![Spotify](https://spotify-hydraphyzer.vercel.app/api/spotify)](https://open.spotify.com/user/8fw9welpdw2jh2abilt8t04gd)
