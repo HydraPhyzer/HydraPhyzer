@@ -2,8 +2,7 @@
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 
 <p align="center">
-          <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?
-   lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+%7C+SQL;HTML+%7C+CSS+%7C+JS+;Love+to+Learn+New+Technologies&center=true&width=500&height=50"></a>
+          <a href="https://github.com/hydraphyzer"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=2000&color=2980B9&background=22CC3300&center=true&vCenter=true&width=500&lines=DSA+%7C+OOP+%7C+C%2B%2B+%7C+C+%7C+SQL;HTML+%7C+CSS+%7C+JS+;Love+to+Learn+New+Technologies"](https://git.io/typing-svg)></a>
 </p>
 
 <hr>
