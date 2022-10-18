@@ -6,9 +6,11 @@
 </p>
 
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=dracula&row=2&column=3"/></a> </p>
 
 [![@hydraphyzer's Holopin board](https://holopin.me/hydraphyzer)](https://holopin.io/@hydraphyzer)
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=dracula&row=2&column=3"/></a> </p>
 
 <p align="center"> <a href="https://twitter.com/zubairgujjar997" target="blank"><img src="https://img.shields.io/twitter/follow/zubairgujjar997?logo=twitter&style=for-the-badge" alt="zubairgujjar997" /></a> </p>
 
