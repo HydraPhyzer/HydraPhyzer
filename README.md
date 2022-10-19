@@ -14,6 +14,11 @@
 
 <p align="center"> <a href="https://twitter.com/zubairgujjar997" target="blank"><img src="https://img.shields.io/twitter/follow/zubairgujjar997?logo=twitter&style=for-the-badge" alt="zubairgujjar997" /></a> </p>
 
+<p align="center"> 
+  Profile Views 🎃<br><br>
+  <img src="https://profile-counter.glitch.me/HydraPhyzer/count.svg" />
+</p>
+
 - ⚡ I’m Currently Working on **Web Development Projects**
 
 - ⚡ I’m Currently Learning   **Full Stack Web Development**
