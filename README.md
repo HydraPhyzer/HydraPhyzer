@@ -10,7 +10,7 @@
 [![@hydraphyzer's Holopin board](https://holopin.me/hydraphyzer)](https://holopin.io/@hydraphyzer)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=dracula&row=2&column=3"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=dracula&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
 
 <p align="center"> <a href="https://twitter.com/zubairgujjar997" target="blank"><img src="https://img.shields.io/twitter/follow/zubairgujjar997?logo=twitter&style=for-the-badge" alt="zubairgujjar997" /></a> </p>
 
@@ -54,14 +54,13 @@
   <a href="https://github.com/hydraphyzer"><span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydraphyzer&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hydraphyzer&&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=dracula" />
-    </span></a>
+    <img width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=hydraphyzer&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=false&border_radius=5" alt=hydraphyzer />
+    
 </p>
 
 <p align="center">
-                 
-<img width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=hydraphyzer&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" alt=hydraphyzer />
-
+          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=dracula" />
+    </span></a>
 <br>
 <hr>
 <h2 align>Spotify Playing 🎵</h2>
