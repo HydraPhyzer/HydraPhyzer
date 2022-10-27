@@ -10,7 +10,7 @@
 [![@hydraphyzer's Holopin board](https://holopin.me/hydraphyzer)](https://holopin.io/@hydraphyzer)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=dracula&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=discord&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
 
 <p align="center"> <a href="https://twitter.com/zubairgujjar997" target="blank"><img src="https://img.shields.io/twitter/follow/zubairgujjar997?logo=twitter&style=for-the-badge" alt="zubairgujjar997" /></a> </p>
 
@@ -35,7 +35,7 @@
 <p align="center">
 <a href="https://dev.to/zubairgujjar997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zubairgujjar997" height="30" width="40" /></a>
 <a href="https://twitter.com/zubairgujjar997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zubairgujjar997" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhamamd-zubair-24b936209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/muhamamd-zubair-24b936209/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-zubair-javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/muhamamd-zubair-24b936209/" height="30" width="40" /></a>
 <a href="https://instagram.com/zubair_gujjar997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zubair_gujjar997" height="30" width="40" /></a>
 </p>
 
