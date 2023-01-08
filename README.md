@@ -48,8 +48,6 @@
 
 <h2 align="center">Contribution Graph</h2>
 
-[![Muhammad Zubair Activity Graph](https://activity-graph.herokuapp.com/graph?username=hydraphyzer&theme=rogue)](https://github.com/hydraphyzer)
-
 <p align="center">
   <a href="https://github.com/hydraphyzer"><span>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydraphyzer&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
