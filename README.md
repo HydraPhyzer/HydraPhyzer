@@ -61,7 +61,7 @@ alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.
 </p>
 
 <p align="center">
-          <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=gruvbox&hide_border=false" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=gruvbox&hide_border=false" />
     </span></a>
 <br>
 <hr>
