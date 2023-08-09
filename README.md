@@ -9,10 +9,7 @@
 
 [![@hydraphyzer's Holopin board](https://holopin.me/hydraphyzer)](https://holopin.io/@hydraphyzer)
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hydraphyzer&theme=discord&row=2&column=3&margin-w=10&margin-h=10"/></a> </p>
-
-<p align="center"> <a href="https://twitter.com/zubairgujjar997" target="blank"><img src="https://img.shields.io/twitter/follow/zubairgujjar997?logo=twitter&style=for-the-badge" alt="zubairgujjar997" /></a> </p>
 
 <p align="center"> 
   Profile Views 🎃<br><br>
@@ -21,13 +18,13 @@
 
 - ⚡ I’m Currently Working on **Web Development Projects**
 
-- ⚡ I’m Currently Learning   **Full Stack Web Development**
+- ⚡ I’m Currently Learning **Full Stack Web Development**
 
-- ⚡ Ask Me About             **C , C++ , HTML , CSS , JavaScript , SQL**
+- ⚡ Ask Me About **C , C++ , HTML , CSS , JavaScript , SQL**
 
-- ⚡ Feel Free to Concact Me  **zubi41918@gmail.com**
+- ⚡ Feel Free to Concact Me **zubi41918@gmail.com**
 
-- ⚡ Fun Fact About Me        **I Think, I am a Quick Learner**
+- ⚡ Fun Fact About Me **I Think, I am a Quick Learner**
 
 <hr>
 
@@ -41,36 +38,61 @@
 </p>
 
 <hr>
-
+<div align="center">
+  <a href="https://github.com/hydraphyzer/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=monokai" alt="Readme Quotes">
+  </a>
+</div>
+<hr>
 <h3 align="center">Languages and Tools </h3>
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,c,cs,cpp,firebase,git,github,ai,mongodb,netlify,py,ts,ai,bootstrap,tailwind,sass" />
   </a>
-</p>
+</div>
 
 <hr>
 
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
-          <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=HydraPhyzer&theme=dracula&hide_border=false" />
 
-<p align="center">
-  <a href="https://github.com/hydraphyzer"><span>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hydraphyzer&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hydraphyzer&&layout=compact&langs_count=8&theme=dracula&hide_border=false"/>
-    <img height="180em" width=80% src="https://github-readme-streak-stats.herokuapp.com/?user=hydraphyzer&theme=dracula&show_icons=true&locale=en&layout=demo&hide_border=false&border_radius=5" alt=hydraphyzer />
-    
-</p>
 
-<p align="center">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=gruvbox&hide_border=false" />
-    </span></a>
-<br>
+<table>
+  <tr>
+    <th>Stats</th>
+    <th>Language By Commit</th>
+    <th>Languages By Repo</th>
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hydraphyzer&theme=gruvbox"/></td>
+    <td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hydraphyzer&theme=gruvbox" /></td>
+            </td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hydraphyzer&theme=gruvbox"/></td>
+  </tr>
+
+  <tr>
+    <th>Proflie Info</th>
+            <th>Streak</th>
+            <th>Commits</th>
+            
+  </tr>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hydraphyzer&theme=gruvbox&hide_border=false" /></td>
+            <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hydraphyzer&theme=dracula&show_icons=true&locale=en&layout=demo&hide_border=false&border_radius=5" alt=hydraphyzer /></a></td>
+            <td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hydraphyzer&theme=gruvbox&utcOffset=8" /></td>
+  </tr>
+          
+</table>
 <hr>
-<h2 align>Spotify Playing 🎵</h2>
 
-[![Spotify](https://spotify-hydraphyzer.vercel.app/api/spotify?background_color=34495e&border_color=27ae60)](https://open.spotify.com/user/8fw9welpdw2jh2abilt8t04gd)
-                  
+<div align="center">
+  <h2>Spotify Playing 🎵</h2>
+  <a href="https://open.spotify.com/user/8fw9welpdw2jh2abilt8t04gd">
+    <img src="https://spotify-hydraphyzer.vercel.app/api/spotify?background_color=34495e&border_color=27ae60" alt="Spotify">
+  </a>
+</div>
+
 <hr>
