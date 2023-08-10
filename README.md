@@ -53,6 +53,11 @@
 
 <hr>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<hr>
+
 <h2 align="center">Contribution Graph</h2>
 
 <p align="center">
