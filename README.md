@@ -45,10 +45,11 @@
 </div>
 <hr>
 <h3 align="center">Languages and Tools </h3>
+</br>
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,c,cs,cpp,firebase,git,github,ai,mongodb,netlify,py,ts,ai,bootstrap,tailwind,sass,mui,figma,express,solidity,postman,ipfs,python,java,vite,git,github,firebase,nodejs" />
-  </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,c,cs,cpp,firebase,git,github,ai" />
+<img src="https://skillicons.dev/icons?i=mongodb,netlify,py,ts,ai,bootstrap,tailwind,sass,mui,figma,express" />
+<img src="https://skillicons.dev/icons?i=solidity,postman,ipfs,python,java,git,github,firebase,nodejs" />
 </div>
 
 <hr>
